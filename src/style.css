@@ -1,0 +1,20 @@
+.form-group span {
+  display: inline-block;
+  line-height: 36px;
+  font-weight: bold;
+}
+.button-add {
+  float: left;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  font-weight: bold;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  background: cornflowerblue;
+  transition: all ease-in 200ms;
+}
+.button-add:hover {
+  background: #467bda;
+}
